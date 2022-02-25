@@ -1,6 +1,14 @@
 # Google-Hashcode-2022-Solutions
 Solution of Google Hashcode 2022!!!
+
+
+
+
+
+
+
 Introduction
+
 Picture with four laptops and letters T E A M illustrating teamwork
 Work is so much more fun when we are part of a team! By combining our different skills, we can be more creative, efficient and productive. And more importantly, when working together we share... not only pizzas, but also knowledge. We can learn from each other, improve our own skills and gain experience.
 Teamwork is one of the main ingredients of Hash Code, especially in this challenge!
